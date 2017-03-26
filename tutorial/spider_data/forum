@@ -1,0 +1,2435 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut Sidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	
+		<base href="https://www.resource-zone.com/forum/" />
+		<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://www.resource-zone.com/forum/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+	
+
+	<title>Resource-Zone</title>
+	
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=2&amp;dir=LTR&amp;d=1489500789" />
+	<link rel="stylesheet" href="css.php?css=login_bar,nat_public_css,node_category,node_forum,node_link,node_list,rellect_nodes_grid,sidebar_share_page,thread_list_simple,wf_default&amp;style=2&amp;dir=LTR&amp;d=1489500789" />
+	
+	
+
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-925373-2', 'www.resource-zone.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+		<script src="js/jquery/jquery-1.11.0.min.js"></script>	
+		
+	<script src="js/xenforo/xenforo.js?_v=6de48517"></script>
+
+	
+	<link rel="apple-touch-icon" href="https://www.resource-zone.com/forum/styles/green/xenforo/logo.og.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for Resource-Zone" href="f/-/index.rss" />
+	
+	<link rel="canonical" href="https://www.resource-zone.com/forum/" />
+	<meta name="description" content="DMOZ Public Forum, sponsored by Members of the DMOZ Community, for discussion of DMOZ-related issues." />
+		<meta property="og:site_name" content="Resource-Zone" />
+	
+	<meta property="og:image" content="https://www.resource-zone.com/forum/styles/green/xenforo/logo.og.png" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.resource-zone.com/forum/" />
+	<meta property="og:title" content="Resource-Zone" />
+	<meta property="og:description" content="DMOZ Public Forum, sponsored by Members of the DMOZ Community, for discussion of DMOZ-related issues." />
+	
+	
+	
+
+</head>
+
+<body>
+
+
+
+	
+
+<div id="loginBar">
+	<div class="pageWidth">
+		<div class="pageContent">	
+			<h3 id="loginBarHandle">
+				<label for="LoginControl"><a href="login/" class="concealed noOutline">Log in or Sign up</a></label>
+			</h3>
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+
+<div id="content" class="forum_list">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<!-- main content area -->
+			
+			
+			
+			
+				<div class="mainContainer">
+					<div class="mainContent">
+						
+						
+						
+						
+						<div class="breadBoxTop ">
+							
+							
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Resource-Zone</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://www.resource-zone.com" class="crumb" rel="up" itemprop="url"><span itemprop="title">Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://www.resource-zone.com/forum/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+		</span>
+	</fieldset>
+</nav>
+						</div>
+						
+						
+						
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+						
+						
+						
+						
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1>Resource-Zone</h1>
+								
+								
+							</div>
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+
+
+
+
+
+
+	
+
+	
+	
+
+
+
+	<ol class="nodeList sectionMain" id="forums">
+	
+		
+
+
+<li class="node grid_full category level_1 node_3" id="general-discussion.3">
+
+	<div class="nodeInfo categoryNodeInfo categoryStrip">
+	
+		<div class="categoryText">
+			<h3 class="nodeTitle"><a href="#general-discussion.3">General Discussion</a>
+</h3>
+			
+		</div>
+		
+	</div>
+	
+			
+		<ol class="nodeList">
+			
+
+
+<li class="node grid_full forum level_2  node_10">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/announcements.10/" data-description="#nodeDescription-10">Announcements</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-10">Read-only area for announcements about DMOZ guidelines revisions, policies (e.g. the Social Contract) and other key developments.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>30</dd></dl>
+				<dl><dt>Messages:</dt> <dd>89</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298158/" title="DMOZ Closure">DMOZ Closure</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/elper.8302/" class="username"><span class="style3">Elper</span></a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1489785660" data-diff="305135" data-datestring="Mar 17, 2017" data-timestring="4:21 PM">Mar 17, 2017 at 4:21 PM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/announcements.10/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_13">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/inside-dmoz.13/" data-description="#nodeDescription-13">Inside DMOZ</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-13">News and happenings from inside the Open Directory Project.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>109</dd></dl>
+				<dl><dt>Messages:</dt> <dd>159</dd></dl>
+				
+					<div class="Popup subForumsPopup">
+						<a href="f/inside-dmoz.13/" rel="Menu" class="cloaked" data-closemenu="true"><span class="dt">Sub-Forums:</span> 1</a>
+						
+						<div class="Menu JsOnly subForumsMenu">
+							<div class="primaryContent menuHeader">
+								<h3>Inside DMOZ</h3>
+								<div class="muted">Sub-Forums</div>
+							</div>
+							<ol class="secondaryContent blockLinksList">
+							
+								<li class="node forum level-n node_14">
+	<div class="unread">
+
+		<h4 class="nodeTitle"><a href="f/dmoz-blog-rss-feed.14/" class="menuRow">DMOZ Blog RSS Feed</a></h4>
+	</div>
+	
+</li>
+							
+							</ol>
+						</div>
+					</div>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/297083/" title="Happy Birthday, DMOZ!">Happy Birthday, DMOZ!</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/blogzilla.37329/" class="username"><span class="style6">Blogzilla</span></a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Jun 5, 2016 at 1:22 AM">Jun 5, 2016</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/inside-dmoz.13/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_4">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/general-dmoz-issues.4/" data-description="#nodeDescription-4">General DMOZ Issues</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-4">Issues related to the Open Directory Project as a whole. To discuss topics covered in other forums, please use those.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>2,517</dd></dl>
+				<dl><dt>Messages:</dt> <dd>20,414</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298224/" title="Discontinuation">Discontinuation</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/gutter-cleaning.94709/" class="username">Gutter Cleaning</a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1490039612" data-diff="51183" data-datestring="Mar 20, 2017" data-timestring="2:53 PM">Mar 20, 2017 at 2:53 PM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/general-dmoz-issues.4/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_5">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/suggesting-a-site.5/" data-description="#nodeDescription-5">Suggesting a Site</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-5">Forum for discussions about the process of suggesting a site for inclusion in DMOZ. General discussion only, no mention of specific sites here please.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>5,078</dd></dl>
+				<dl><dt>Messages:</dt> <dd>28,553</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298241/" title="New submission site or Plan to migrate the content?">New submission site or Plan to migrate the content?</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/informator.433/" class="username"><span class="style6">informator</span></a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1490089924" data-diff="871" data-datestring="Mar 21, 2017" data-timestring="4:52 AM">Mar 21, 2017 at 4:52 AM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/suggesting-a-site.5/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_6">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/becoming-an-editor.6/" data-description="#nodeDescription-6">Becoming an Editor</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-6">Take a look at our <a href="http://www.resource-zone.com/forum/t/faq-and-general-advice.1142/">FAQ</a> and <a href="http://www.resource-zone.com/forum/t/forum-guidelines-read-before-posting.10137/">Forum Guidelines</a> before you post. This forum is also for Editor Reinstatement issues.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>4,569</dd></dl>
+				<dl><dt>Messages:</dt> <dd>25,264</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298216/" title="Becoming Editor">Becoming Editor</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/informator.433/" class="username"><span class="style6">informator</span></a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1490018693" data-diff="72102" data-datestring="Mar 20, 2017" data-timestring="9:04 AM">Mar 20, 2017 at 9:04 AM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/becoming-an-editor.6/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_9">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/kids-and-teens.9/" data-description="#nodeDescription-9">Kids and Teens</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-9">A moderated, kid-safe area for questions specifically related to the DMOZ Kids and Teens Directory.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>23</dd></dl>
+				<dl><dt>Messages:</dt> <dd>123</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/295613/" title="I want to be an editor">I want to be an editor</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/bruno-garcia.92618/" class="username">Bruno Garcia</a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Jan 22, 2015 at 11:50 AM">Jan 22, 2015</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/kids-and-teens.9/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_7">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/quality-control-feedback.7/" data-description="#nodeDescription-7">Quality Control Feedback</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-7">Report quality control issues, and generic abuse reports with no mention of specific URLs, editors, or categories.  Please report specific abuse cases to the <a href="http://www.dmoz.org/public/abuse">DMOZ Public Abuse Report System</a>.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>552</dd></dl>
+				<dl><dt>Messages:</dt> <dd>8,528</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/297544/" title="Report Hijacks, Dead Links, Inappropriate DMOZ Content, and other issues here ONLY">Report Hijacks, Dead Links, Inappropriate DMOZ Content, and other issues here ONLY</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/informator.433/" class="username"><span class="style6">informator</span></a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Dec 24, 2016 at 2:51 AM">Dec 24, 2016</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/quality-control-feedback.7/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_12">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/bugs-and-features.12/" data-description="#nodeDescription-12">Bugs and Features</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-12">Area to report and discuss technical problems in using DMOZ. Also new technical and structural features or solutions can be suggested and discussed here.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>426</dd></dl>
+				<dl><dt>Messages:</dt> <dd>2,447</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298239/" title="How do you add an Avatar">How do you add an Avatar</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/elper.8302/" class="username"><span class="style3">Elper</span></a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1490087469" data-diff="3326" data-datestring="Mar 21, 2017" data-timestring="4:11 AM">Mar 21, 2017 at 4:11 AM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/bugs-and-features.12/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_8">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/using-dmoz-data.8/" data-description="#nodeDescription-8">Using DMOZ Data</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-8">Explanations of the ways DMOZ data can be used. Description of the license and attribution requirements.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>253</dd></dl>
+				<dl><dt>Messages:</dt> <dd>1,308</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298196/" title="Directory published at SearchTopix">Directory published at SearchTopix</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/elper.8302/" class="username"><span class="style3">Elper</span></a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1489944297" data-diff="146498" data-datestring="Mar 19, 2017" data-timestring="12:24 PM">Mar 19, 2017 at 12:24 PM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/using-dmoz-data.8/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_full forum level_2  node_11">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/adult.11/" data-description="#nodeDescription-11">Adult</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-11">The only area where reference to adult material, as defined in the <a href="http://www.dmoz.org/docs/en/guidelines/adult/">DMOZ Adult Guidelines</a>, may be made in these forums. You need to <a href="http://www.resource-zone.com/forum/t/how-to-access-the-adult-forum.45295/">certify</a> that you are over 18 in order to gain access.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>&ndash;</dd></dl>
+				<dl><dt>Messages:</dt> <dd>&ndash;</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="noMessages muted">(Private)</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/adult.11/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+		</ol>
+	
+	
+	<span class="tlc"></span>
+	<span class="trc"></span>
+	<span class="blc"></span>
+	<span class="brc"></span>
+</li>
+
+
+<li class="node grid_full category level_1 node_20" id="world.20">
+
+	<div class="nodeInfo categoryNodeInfo categoryStrip">
+	
+		<div class="categoryText">
+			<h3 class="nodeTitle"><a href="#world.20">World</a>
+</h3>
+			
+		</div>
+		
+	</div>
+	
+			
+		<ol class="nodeList">
+			
+
+
+<li class="node grid_column grid_left forum level_2  node_21">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/non-english.21/" data-description="#nodeDescription-21">Non-English</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-21">Area for discussions conducted in languages other than Chinese, English, Danish, Dutch, Finnish, French, German, Italian, Polish, Portuguese, Russian, Spanish, Swedish or Turkish.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>188</dd></dl>
+				<dl><dt>Messages:</dt> <dd>1,024</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298169/" title="bahasa indonesia">bahasa indonesia</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/3polxin.95737/" class="username">3polxin</a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1489820607" data-diff="270188" data-datestring="Mar 18, 2017" data-timestring="2:03 AM">Mar 18, 2017 at 2:03 AM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/non-english.21/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_right forum level_2  node_32">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/chinese.32/" data-description="#nodeDescription-32">Chinese</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-32">中文（简繁体）论坛 & 中文（簡繁體）論壇</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>1,018</dd></dl>
+				<dl><dt>Messages:</dt> <dd>3,849</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298144/" title="dmoz即将关闭真可惜">dmoz即将关闭真可惜</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/xdru.95702/" class="username">xdru</a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1489717543" data-diff="373252" data-datestring="Mar 16, 2017" data-timestring="9:25 PM">Mar 16, 2017 at 9:25 PM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/chinese.32/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_left forum level_2  node_26">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/dansk.26/" data-description="#nodeDescription-26">Dansk</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-26">Forum for diskussion på dansk.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>105</dd></dl>
+				<dl><dt>Messages:</dt> <dd>538</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/297060/" title="Oprydning i kategorier">Oprydning i kategorier</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/elper.8302/" class="username"><span class="style3">Elper</span></a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="May 18, 2016 at 4:41 PM">May 18, 2016</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/dansk.26/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_right forum level_2  node_23">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/deutsch.23/" data-description="#nodeDescription-23">Deutsch</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-23">Fragen in deutscher Sprache zum DMOZ.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>1,416</dd></dl>
+				<dl><dt>Messages:</dt> <dd>8,352</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298190/" title="DMOZ Eintrag">DMOZ Eintrag</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/sassie.95819/" class="username">sassie</a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1489923397" data-diff="167398" data-datestring="Mar 19, 2017" data-timestring="6:36 AM">Mar 19, 2017 at 6:36 AM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/deutsch.23/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_left forum level_2  node_25">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/espanol.25/" data-description="#nodeDescription-25">Español</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-25">Área para las discusiones conducidas en español.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>940</dd></dl>
+				<dl><dt>Messages:</dt> <dd>5,007</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298071/" title="Editores Dmoz">Editores Dmoz</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/miriam.160/" class="username"><span class="style6">miriam</span></a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Mar 12, 2017 at 8:15 PM">Mar 12, 2017</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/espanol.25/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_right forum level_2  node_22">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/francais.22/" data-description="#nodeDescription-22">Français</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-22">Questions en français au sujet de l'annuaire DMOZ. Merci de lire ces <a href="http://www.resource-zone.com/forum/t/conseils-et-directives-a-lire-avant-de-poster.133/">directives</a>.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>798</dd></dl>
+				<dl><dt>Messages:</dt> <dd>4,707</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298177/" title="Rang éditeur sur le forum">Rang éditeur sur le forum</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/elper.8302/" class="username"><span class="style3">Elper</span></a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1489861468" data-diff="229327" data-datestring="Mar 18, 2017" data-timestring="1:24 PM">Mar 18, 2017 at 1:24 PM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/francais.22/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_left forum level_2  node_24">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/italiano.24/" data-description="#nodeDescription-24">Italiano</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-24">Una porta aperta per utilizzatori ed aspiranti editori che preferiscono porre le loro domande in italiano.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>195</dd></dl>
+				<dl><dt>Messages:</dt> <dd>7,105</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/297321/" title="Inserimento in dmoz a pagamento">Inserimento in dmoz a pagamento</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/tonyloco.94604/" class="username"><span class="style7">tonyloco</span></a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Aug 26, 2016 at 6:09 PM">Aug 26, 2016</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/italiano.24/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_right forum level_2  node_29">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/nederlands.29/" data-description="#nodeDescription-29">Nederlands</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-29">Vragen in de Nederlandse taal over DMOZ.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>154</dd></dl>
+				<dl><dt>Messages:</dt> <dd>963</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/293870/" title="Bevestiging aanmelding ontbreekt">Bevestiging aanmelding ontbreekt</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/pvgool.153/" class="username"><span class="style6">pvgool</span></a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Dec 18, 2013 at 3:14 PM">Dec 18, 2013</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/nederlands.29/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_left forum level_2  node_30">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/polski.30/" data-description="#nodeDescription-30">Polski</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-30">Forum dla użytkowników piszących po polsku.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>149</dd></dl>
+				<dl><dt>Messages:</dt> <dd>664</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/297293/" title="Strona, która nie pojawia się w moderacji">Strona, która nie pojawia się w moderacji</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/adamx.94407/" class="username">Adamx</a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Aug 10, 2016 at 7:52 AM">Aug 10, 2016</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/polski.30/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_right forum level_2  node_31">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/portugues.31/" data-description="#nodeDescription-31">Português</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-31">Área para discussões em português.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>58</dd></dl>
+				<dl><dt>Messages:</dt> <dd>314</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/297623/" title="cadastrar meu site adulto não encontro categoria adulto">cadastrar meu site adulto não encontro categoria adulto</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/anderson-camargo.95145/" class="username">anderson camargo</a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Jan 30, 2017 at 2:59 PM">Jan 30, 2017</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/portugues.31/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_left forum level_2  node_34">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/russkij.34/" data-description="#nodeDescription-34">Русский</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-34">Форум для дискуссий на русском языке.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>281</dd></dl>
+				<dl><dt>Messages:</dt> <dd>3,276</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298237/" title="Как узнать находится ли сайт в очереди">Как узнать находится ли сайт в очереди</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/karel.95926/" class="username">karel</a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1490084767" data-diff="6028" data-datestring="Mar 21, 2017" data-timestring="3:26 AM">Mar 21, 2017 at 3:26 AM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/russkij.34/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_right forum level_2  node_27">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/suomi.27/" data-description="#nodeDescription-27">Suomi</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-27">Suomenkielistä keskustelua DMOZ:stä.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>15</dd></dl>
+				<dl><dt>Messages:</dt> <dd>40</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/278568/" title="Huoltokatko">Huoltokatko</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/hannes.169/" class="username">hannes</a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Jul 21, 2010 at 10:56 AM">Jul 21, 2010</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/suomi.27/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_left forum level_2  node_28">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/svenska.28/" data-description="#nodeDescription-28">Svenska</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-28">Diskussion på svenska.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>61</dd></dl>
+				<dl><dt>Messages:</dt> <dd>272</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/276242/" title="Extrem lång tid för ansökning">Extrem lång tid för ansökning</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/informator.433/" class="username"><span class="style6">informator</span></a>,</span>
+					<span class="DateTime muted lastThreadDate" data-latest="Latest: " title="Feb 12, 2014 at 7:33 AM">Feb 12, 2014</span>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/svenska.28/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+
+
+<li class="node grid_column grid_right forum level_2  node_33">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/tuerkce.33/" data-description="#nodeDescription-33">Türkçe</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-33">DMOZ ile ilgili Türkçe tartışmalar için forum bölümüdür. Bu foruma yazmadan önce lütfen <a href="http://www.resource-zone.com/forum/t/tuerkce-forumu-kurallari.43610/">yönergeleri</a> okuyunuz.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>561</dd></dl>
+				<dl><dt>Messages:</dt> <dd>4,218</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298242/" title="Dmoz sadece forum olarak mı hizmet verecek?">Dmoz sadece forum olarak mı hizmet verecek?</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/seosefi.95932/" class="username">seosefi</a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1490090741" data-diff="54" data-datestring="Mar 21, 2017" data-timestring="5:05 AM">Mar 21, 2017 at 5:05 AM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/tuerkce.33/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+		</ol>
+	
+	
+	<span class="tlc"></span>
+	<span class="trc"></span>
+	<span class="blc"></span>
+	<span class="brc"></span>
+</li>
+
+
+<li class="node grid_full category level_1 node_15" id="playground.15">
+
+	<div class="nodeInfo categoryNodeInfo categoryStrip">
+	
+		<div class="categoryText">
+			<h3 class="nodeTitle"><a href="#playground.15">Playground</a>
+</h3>
+			
+		</div>
+		
+	</div>
+	
+			
+		<ol class="nodeList">
+			
+
+
+<li class="node grid_full forum level_2  node_16">
+
+	
+
+	<div class="nodeInfo forumNodeInfo primaryContent unread">
+
+		<span class="nodeIcon" title="Unread messages"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="f/members-lounge.16/" data-description="#nodeDescription-16">Members Lounge</a>
+</h3>
+
+			
+				<blockquote class="nodeDescription nodeDescriptionTooltip baseHtml" id="nodeDescription-16">The place for all off-topic threads.</blockquote>
+			
+
+			<div class="nodeStats pairsInline">
+				<dl><dt>Discussions:</dt> <dd>608</dd></dl>
+				<dl><dt>Messages:</dt> <dd>7,975</dd></dl>
+				
+			</div>
+			
+			
+		</div>
+
+		
+		
+		
+
+		<div class="nodeLastPost secondaryContent">
+			
+				<span class="lastThreadTitle"><span>Latest:</span> <a href="posts/298238/" title="Member to Editor">Member to Editor</a></span>
+				<span class="lastThreadMeta">
+					<span class="lastThreadUser"><a href="members/elper.8302/" class="username"><span class="style3">Elper</span></a>,</span>
+					<abbr class="DateTime muted lastThreadDate" data-latest="Latest: " data-time="1490087139" data-diff="3656" data-datestring="Mar 21, 2017" data-timestring="4:05 AM">Mar 21, 2017 at 4:05 AM</abbr>
+				</span>
+			
+		</div>
+
+		<div class="nodeControls">
+			<a href="f/members-lounge.16/index.rss" class="tinyIcon feedIcon" title="RSS">RSS</a>
+		</div>
+		
+	</div>
+
+	
+
+</li>
+		</ol>
+	
+	
+	<span class="tlc"></span>
+	<span class="trc"></span>
+	<span class="blc"></span>
+	<span class="brc"></span>
+</li>
+
+
+<li class="node grid_full category level_1 node_57" id="resources.57">
+
+	<div class="nodeInfo categoryNodeInfo categoryStrip">
+	
+		<div class="categoryText">
+			<h3 class="nodeTitle"><a href="#resources.57">Resources</a>
+</h3>
+			
+		</div>
+		
+	</div>
+	
+			
+		<ol class="nodeList">
+			
+
+
+<li class="node grid_column grid_left link level_2  node_63">
+
+	
+	
+	<div class="nodeInfo linkNodeInfo">
+		<span class="nodeIcon"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="link-forums/directory.63/" data-description-x="#nodeDescription-63">Directory</a>
+</h3>
+			<blockquote class="nodeDescription muted baseHtml" id="nodeDescription-63">Static mirror of the DMOZ directory, created from the last RDF data.</blockquote>
+		</div>		
+	</div>
+	
+	
+</li>
+
+
+<li class="node grid_column grid_right link level_2  node_58">
+
+	
+	
+	<div class="nodeInfo linkNodeInfo">
+		<span class="nodeIcon"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="link-forums/curlie.58/" data-description-x="#nodeDescription-58">Curlie</a>
+</h3>
+			<blockquote class="nodeDescription muted baseHtml" id="nodeDescription-58">Official website of Curlie , historically known as the Open Directory Project (ODP) and as DMOZ.</blockquote>
+		</div>		
+	</div>
+	
+	
+</li>
+
+
+<li class="node grid_column grid_left link level_2  node_59">
+
+	
+	
+	<div class="nodeInfo linkNodeInfo">
+		<span class="nodeIcon"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="link-forums/blog.59/" data-description-x="#nodeDescription-59">Blog</a>
+</h3>
+			<blockquote class="nodeDescription muted baseHtml" id="nodeDescription-59">Archive of the Official DMOZ directory blog.</blockquote>
+		</div>		
+	</div>
+	
+	
+</li>
+
+
+<li class="node grid_column grid_right link level_2  node_61">
+
+	
+	
+	<div class="nodeInfo linkNodeInfo">
+		<span class="nodeIcon"></span>
+
+		<div class="nodeText">
+			<h3 class="nodeTitle"><a href="link-forums/editorial-guidelines.61/" data-description-x="#nodeDescription-61">Editorial Guidelines</a>
+</h3>
+			<blockquote class="nodeDescription muted baseHtml" id="nodeDescription-61">Archive of the official editorial guidelines of the DMOZ directory.</blockquote>
+		</div>		
+	</div>
+	
+	
+</li>
+		</ol>
+	
+	
+	<span class="tlc"></span>
+	<span class="trc"></span>
+	<span class="blc"></span>
+	<span class="brc"></span>
+</li>
+	
+	</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+						
+						
+						
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm " id="login" style="display:none">
+
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Do you already have an account?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						No, create an account now.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Yes, my password is:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign up" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/forum/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+					</div>
+				</div>
+				
+				<!-- sidebar -->
+				<aside>
+					<div class="sidebar">
+						
+						
+						
+
+<div class="section loginButton">		
+	<div class="secondaryContent">
+		<label for="LoginControl" id="SignupButton"><a href="login/" class="inner">Sign up now!</a></label>
+	</div>
+</div>
+
+
+
+
+						<div class="section ">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_OnlineStaff" id="widget-2">
+							<h3>
+								
+									Staff Online Now
+								
+							</h3>
+							<div class="avatarList WidgetFramework_WidgetRenderer_OnlineStaff">
+	<ul>
+		
+			
+				
+			
+				
+					<li class="user-433">
+						<a href="members/informator.433/" class="avatar Av433s" data-avatarhtml="true"><img src="data/avatars/s/0/433.jpg?1393107060" width="48" height="48" alt="informator" /></a>
+						<a href="members/informator.433/" class="username"><span class="style6">informator</span></a>
+						<div class="userTitle">DMOZ Meta</div>
+					</li>
+				
+			
+		
+	</ul>
+</div>
+						</div>
+					
+				
+			
+		</div>
+	
+
+
+
+	
+	
+
+
+
+
+	
+
+	
+		
+		<div class="section group-cff14">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Threads" id="widget-11">
+							<h3>
+								
+									Latest Posts
+								
+							</h3>
+							<div class="avatarList">
+			<ul>
+				
+					
+
+						
+							
+							<li class="thread-53478 thread-node-5">
+	<a href="members/play2winclub.95929/" class="avatar Av95929s" data-avatarhtml="true"><img src="styles/green/xenforo/avatars/avatar_s.png" width="48" height="48" alt="play2winclub" /></a>
+
+	
+
+	<a title="New submission site or Plan to migrate the content?" class="Tooltip"
+		href="t/new-submission-site-or-plan-to-migrate-the-content.53478/">
+		New submission site or Plan to...
+	</a>
+
+	<div class="userTitle">
+									<a href="members/play2winclub.95929/" class="username">play2winclub</a> posted <abbr class="DateTime" data-time="1490087885" data-diff="2815" data-datestring="Mar 21, 2017" data-timestring="4:18 AM">Mar 21, 2017 at 4:18 AM</abbr>
+								</div>
+	
+	
+</li>
+
+						
+							
+							<li class="thread-53474 thread-node-4">
+	<a href="members/gutter-cleaning.94709/" class="avatar Av94709s" data-avatarhtml="true"><img src="styles/green/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Gutter Cleaning" /></a>
+
+	
+
+	<a 
+		href="t/discontinuation.53474/">
+		Discontinuation
+	</a>
+
+	<div class="userTitle">
+									<a href="members/gutter-cleaning.94709/" class="username">Gutter Cleaning</a> posted <abbr class="DateTime" data-time="1490039612" data-diff="51088" data-datestring="Mar 20, 2017" data-timestring="2:53 PM">Mar 20, 2017 at 2:53 PM</abbr>
+								</div>
+	
+	
+</li>
+
+						
+							
+							<li class="thread-53473 thread-node-33">
+	<a href="members/ivodikarlo.95899/" class="avatar Av95899s" data-avatarhtml="true"><img src="styles/green/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="ivodikarlo" /></a>
+
+	
+
+	<a 
+		href="t/site-kayit.53473/">
+		Site kayıt
+	</a>
+
+	<div class="userTitle">
+									<a href="members/ivodikarlo.95899/" class="username">ivodikarlo</a> posted <abbr class="DateTime" data-time="1490022062" data-diff="68638" data-datestring="Mar 20, 2017" data-timestring="10:01 AM">Mar 20, 2017 at 10:01 AM</abbr>
+								</div>
+	
+	
+</li>
+
+						
+							
+							<li class="thread-53471 thread-node-6">
+	<a href="members/michalstarck.95871/" class="avatar Av95871s" data-avatarhtml="true"><img src="styles/green/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="michalstarck" /></a>
+
+	
+
+	<a 
+		href="t/becoming-editor.53471/">
+		Becoming Editor
+	</a>
+
+	<div class="userTitle">
+									<a href="members/michalstarck.95871/" class="username">michalstarck</a> posted <abbr class="DateTime" data-time="1489998633" data-diff="92067" data-datestring="Mar 20, 2017" data-timestring="3:30 AM">Mar 20, 2017 at 3:30 AM</abbr>
+								</div>
+	
+	
+</li>
+
+						
+							
+							<li class="thread-53468 thread-node-16">
+	<a href="members/maazali.95821/" class="avatar Av95821s" data-avatarhtml="true"><img src="styles/green/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="MaazAli" /></a>
+
+	
+
+	<a 
+		href="t/how-to-register-as-a-subscriber.53468/">
+		How to register as a subscriber?
+	</a>
+
+	<div class="userTitle">
+									<a href="members/maazali.95821/" class="username">MaazAli</a> posted <abbr class="DateTime" data-time="1489924464" data-diff="166236" data-datestring="Mar 19, 2017" data-timestring="6:54 AM">Mar 19, 2017 at 6:54 AM</abbr>
+								</div>
+	
+	
+</li>
+
+						
+
+					
+				
+			</ul>
+		</div>
+
+		<div id="PreviewTooltip">
+	<span class="arrow"><span></span></span>
+	
+	<div class="section">
+		<div class="primaryContent previewContent">
+			<span class="PreviewContents">Loading...</span>
+		</div>
+	</div>
+</div>
+						</div>
+					
+				
+			
+		</div>
+	
+
+
+
+	
+	
+
+
+
+
+	
+
+	
+		
+		<div class="section ">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Html" id="widget-15">
+							<h3>
+								
+									Follow DMOZ on Twitter
+								
+							</h3>
+							<a class="twitter-timeline" data-tweet-limit="2" data-chrome="noborders transparent noscrollbar"  href="https://twitter.com/DMOZ"  data-widget-id="437660286309236736">Tweets by @DMOZ</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						</div>
+					
+				
+			
+		</div>
+	
+
+
+
+	
+	
+
+
+
+
+	
+
+	
+		
+		<div class="section ">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_OnlineUsers" id="widget-3">
+							<h3>
+								
+									<a href="online/">Members Online Now</a>
+								
+							</h3>
+							<div class="userList WidgetFramework_WidgetRenderer_OnlineUsers">
+	
+		
+		
+		<ol class="listInline">
+			
+				
+					<li class="user-95932">
+					
+						<a href="members/seosefi.95932/" class="username">seosefi</a>,
+					
+					</li>
+				
+			
+				
+					<li class="user-433">
+					
+						<a href="members/informator.433/" class="username"><span class="style6">informator</span></a>
+					
+					</li>
+				
+			
+			
+		</ol>
+	
+	
+	<div class="footnote">
+		
+			Total: 34 (members: 2, guests: 26, robots: 6)
+		
+	</div>
+</div>
+						</div>
+					
+				
+			
+		</div>
+	
+
+
+
+	
+	
+
+
+
+
+	
+
+	
+		
+		<div class="section ">
+			
+				
+					
+						<div class="secondaryContent widget sidebar-widget WidgetFramework_WidgetRenderer_Stats" id="widget-4">
+							<h3>
+								
+									Forum Statistics
+								
+							</h3>
+							<div class="pairsJustified">
+	<dl class="discussionCount"><dt>Discussions:</dt>
+		<dd>53,128</dd></dl>
+	<dl class="messageCount"><dt>Messages:</dt>
+		<dd>295,800</dd></dl>
+	<dl class="memberCount"><dt>Members:</dt>
+		<dd>64,346</dd></dl>
+	<dl><dt>Latest Member:</dt>
+		<dd><a href="members/seosefi.95932/" class="username">seosefi</a></dd></dl>
+	<!-- slot: forum_stats_extra -->
+</div>
+						</div>
+					
+				
+			
+		</div>
+						
+						
+					</div>
+				</aside>
+			
+			
+						
+			<div class="breadBoxBottom">
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Resource-Zone</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="https://www.resource-zone.com" class="crumb"><span>Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="https://www.resource-zone.com/forum/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+						
+			
+						
+		</div>
+	</div>
+</div>
+
+<header>
+	
+
+
+<div id="header">
+	<div id="logoBlock">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<div id="logo"><a href="https://www.resource-zone.com/forum/">
+				<span></span>
+				<img src="styles/green/style/9_logo.png" alt="Resource-Zone" />
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+<div id="navigation" class="pageWidth withSearch">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+		
+			<li class="navTab home PopupClosed"><a href="https://www.resource-zone.com" class="navLink">Home</a></li>
+		
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums selected">
+			
+				<a href="https://www.resource-zone.com/forum/" class="navLink">Forums</a>
+				<a href="https://www.resource-zone.com/forum/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="tabLinks forumsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Forums</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						
+						<li><a href="search/?type=post">Search Forums</a></li>
+						
+						<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+					
+					</ul>
+				</div>
+			</li>
+		
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+		
+		<!-- members -->
+		
+			<li class="navTab members Popup PopupControl PopupClosed">
+			
+				<a href="https://www.resource-zone.com/forum/members/" class="navLink">Members</a>
+				<a href="https://www.resource-zone.com/forum/members/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="Menu JsOnly tabMenu membersTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Members</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						<li><a href="members/">Notable Members</a></li>
+						<li><a href="members/list">Registered Members</a></li>
+						<li><a href="online/">Current Visitors</a></li>
+						<li><a href="recent-activity/">Recent Activity</a></li>
+						
+					
+					</ul>
+				</div>
+			</li>
+						
+		
+		<!-- extra tabs: end -->
+		
+
+		<!-- responsive popup -->
+		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
+						
+			<a rel="Menu" class="navLink NoPopupGadget"><span class="menuIcon">Menu</span></a>
+			
+			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+		</li>
+			
+		
+		<!-- no selection -->
+		
+		
+	</ul>
+	
+	
+</div>
+
+<span class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+	
+
+<div id="searchBar" class="pageWidth">
+	
+	<span id="QuickSearchPlaceholder" title="Search">Search</span>
+	<fieldset id="QuickSearch">
+		<form action="search/search" method="post" class="formPopup">
+			
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." title="Enter your search and hit enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryControls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Search titles only</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Posted by Member:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separate names with a comma.</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Newer Than:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now" />
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Useful Searches" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Useful Searches</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+						<a href="search/" class="button moreOptions Tooltip" title="Advanced Search">More...</a>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="" />
+		</form>		
+	</fieldset>
+	
+</div>
+</div>
+
+	
+	
+</header>
+
+</div>
+
+<footer>
+	
+
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			<dl class="choosers">
+				
+				
+					<dt>Language</dt>
+					<dd><a href="misc/language?redirect=%2Fforum%2F" class="OverlayTrigger Tooltip" title="Language Chooser" rel="nofollow">English (US)</a></dd>
+				
+			</dl>
+			
+			
+			<ul class="footerLinks">
+			
+				
+					<li><a href="misc/contact" class="OverlayTrigger" data-overlayOptions="{&quot;fixed&quot;:false}">Contact Us</a></li>
+				
+				<li><a href="help/">Help</a></li>
+				<li><a href="https://www.resource-zone.com" class="homeLink">Home</a></li>
+				<li><a href="/forum/#navigation" class="topLink">Top</a></li>
+				<li><a href="f/-/index.rss" rel="alternate" class="globalFeed" target="_blank"
+					title="RSS feed for Resource-Zone">RSS</a></li>
+			
+			</ul>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+
+<div class="footerLegal">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<ul id="legal">
+			
+				<li><a href="help/terms">Terms and Rules</a></li>
+				
+			
+			</ul>
+			
+			<div id="copyright"><a href="https://xenforo.com" class="concealed">Forum software by XenForo&trade; <span>&copy;2010-2017 XenForo Ltd.</span></a> <div id="thCopyrightNotice">Some XenForo functionality crafted by <a href="http://xf.themehouse.com/" title="Premium XenForo Add-ons" target="_blank">ThemeHouse</a>.</div></div>
+			
+		
+			
+			
+			<span class="helper"></span>
+		</div>
+	</div>	
+</div>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.forumadmins.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="http://stats.forumadmins.org/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</footer>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1490090795,
+		today: 1490072400,
+		todayDow: 2
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 200,
+		closeSpeed: 100,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 200,
+			closeSpeed: 100
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"nat_public_css":true,"node_list":true,"rellect_nodes_grid":true,"node_category":true,"node_forum":true,"node_link":true,"thread_list_simple":true,"sidebar_share_page":true,"wf_default":true,"login_bar":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "6de48517",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Cancel",
+
+	a_moment_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "";
+XenForo.Facebook.forceInit = true;
+
+
+</script>
+
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://www.resource-zone.com/forum/",
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://www.resource-zone.com/forum/search/search?keywords={search_keywords}",
+		"query-input": "required name=search_keywords"
+	}
+}
+</script>
+
+
+
+</body>
+</html>
