@@ -117,7 +117,7 @@ class SpiderCisco(object):
                 #print "0000000000---%s" % (ContractNumber)
                 formdata_b = {
                     'seqId': seqId,
-                    'PageId': 2,
+                    'PageId': '2',
                     'page': 'CS',
                     'ContractNumber': ContractNumber,
                     'ServiceLineId': ServiceLineId,
@@ -146,16 +146,17 @@ class SpiderCisco(object):
                 data = urllib.urlencode(formdata_b)
                 print 80*'()'
                 print summiturl
-                # r = requests.post(summiturl, data=data, headers=res.headers,cookies = cookie)
-                # print dir(r)
-                # print r.__dict__
-                # print 80 * '@'
-                print "kankan"
-                # print r.status_code
-                conn = httplib.HTTPConnection("sso.cisco.com")
-                conn.request(method="POST", url=summiturl, body=data, headers=headers)
-                response = conn.getresponse()
-                print conn.__dict__
+                r = requests.post(summiturl, data=data, headers=res.headers,cookies = cookie)
+                r1 = requests.get(summiturl,headers=res.headers, cookies=cookie)
+                print dir(r1)
+                print r1.__dict__
+                print 80 * '@'
+                # print "kankan"
+                # # print r.status_code
+                # conn = httplib.HTTPConnection("sso.cisco.com")
+                # conn.request(method="POST", url=summiturl, body=data, headers=headers)
+                # response = conn.getresponse()
+                # print conn.__dict__
                 # ress = response.getheader('location')
                 # print dir(response)
                 # print ress

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record model="ir.ui.view" id="nantian_pres_sale_form">
+            <field name="name">pres_sale.form</field>
+            <field name="model">nantian_erp.pres_sale</field>
+            <field name="arch" type="xml">
+                <!--project_name = fields.Char(string='项目名称')-->
+                <!--partner = fields.Many2one('res.partner', string='客户名称', domain="[('category','=',u'服务客户')]")-->
+                <!--process_scrib = fields.Text(string='本周主要进展说明')-->
+                <!--before_bid_amount = fields.Integer(string='投标金额')-->
+                <!--bid_commpany = fields.Char(string='中标单位',)-->
+                <!--pre_bid_date = fields.Date(string='预计投标日期')-->
+                <!--competitors = fields.Char(string='竞争对手')-->
+                <!--rate_of_success = fields.Integer(string='预计成功率（%）')-->
+                <!--salesman_id = fields.Many2one('res.users', string='销售负责人')-->
+                <!--# 合同编号、项目名称、合同名称、客户名称、进展、-->
+                <!--# 标书编写、标书复核人、讲标人、投标金额、投标日期、中标单位、-->
+                <!--# 主要竞对、成功率、合同/中标金额、检索词、涉及厂商或平台、-->
+                <!--# 合同主要内容、销售人员、签字人、签订日-->
+                <!--# 项目名称、合同名称、进展、投标金额、投标日期、中标单位、主要竞对、成功率、-->
+                <!--nu = fields.Char(string='合同编号')-->
+                 <!--contract_name = fields.Char(string='合同名称')-->
+                <!--bid_write = fields.Char(string='标书编写',)-->
+                <!--bid_checkman_id = fields.Many2one('res.users',string='标书复核人',)-->
+                <!--bid_readman_id = fields.Many2one('res.users',string='讲标人',)-->
+                <!--after_bid_amount = fields.Integer(string='合同/中标金额',)-->
+                <!--term = fields.Char(string='检索词',)-->
+                <!--firm_platform = fields.Char(string='涉及厂商或平台',)-->
+                <!--context = fields.Text(string='合同主要内容',)-->
+                <!--siger = fields.Many2one('res.users',string='签字人',)-->
+                <!--sign_date = fields.Date(string='签订日期',)-->
+                <form string="pre_sale" >
+                    <group >
+                        <group string="售前项目预填写">
+                            <field name="project_name" string="项目名称"/>
+                            <field name="partner" string="客户名称" />
+                            <field name="process_scrib" string="本周主要进展说明"/>
+                            <field name="before_bid_amount" string="投标金额"/>
+                            <field name="bid_commpany" string="中标单位"/>
+                            <field name="pre_bid_date" string="预计投标日期"/>
+                            <field name="competitors" string="竞争对手"/>
+                            <field name="rate_of_success" string="成功率(%)"/>
+                        </group>
+                        <group string="编写标书人员待完善">
+                            <field name="contract_name" string="合同名称"/>
+                            <field name="salesman_id" string="销售负责人"/>
+                            <field name="contract_number" string="合同编号"/>
+                            <field name="bid_write" string="标书编写"/>
+                            <field name="bid_checkman_id" string="标书复核人"/>
+                            <field name="bid_readman_id" string="讲标人"/>
+                            <field name="after_bid_amount" string="合同/中标金额"/>
+                            <field name="term" string="检索词"/>
+                            <field name="firm_platform" string="涉及厂商或平台"/>
+                            <field name="context" string="合同主要内容"/>
+                            <field name="siger" string="签字人"/>
+                            <field name="sign_date" string="签订日期"/>
+                        </group>
+                    </group>
+                </form>
+            </field>
+        </record>
+        <record model="ir.ui.view" id="nantian_pres_sale_tree">
+            <field name="name">pres_sale.tree</field>
+            <field name="model">nantian_erp.pres_sale</field>
+            <field name="arch" type="xml">
+                <tree >
+                    <field name="project_name" string="项目名称"/>
+                    <field name="partner" string="客户名称" />
+                    <field name="process_scrib" string="本周主要进展说明"/>
+                    <field name="before_bid_amount" string="投标金额"/>
+                    <field name="bid_commpany" string="中标单位"/>
+                    <field name="pre_bid_date" string="预计投标日期"/>
+                    <field name="competitors" string="竞争对手"/>
+                    <field name="rate_of_success" string="成功率(%)"/>
+                </tree>
+            </field>
+        </record>
+         <record id="nantian_pres_sale_action" model="ir.actions.act_window">
+            <field name="name">售前项目</field>
+            <field name="res_model">nantian_erp.pres_sale</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+            <!--<field name ="domain">[('category','=','服务客户')]</field>-->
+         </record>
+        <menuitem id="nantian_pre_second_sale_menu" sequence="15" parent="nantian_working_team"  name="销售" />
+        <menuitem id="nantian_pre_sale_menu" parent="nantian_pre_second_sale_menu" action="nantian_pres_sale_action" name="售前" string='售前项目'/>
+
+    </data>
+</openerp>
