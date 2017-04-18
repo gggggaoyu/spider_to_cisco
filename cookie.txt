@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.cisco.com	TRUE	/	FALSE		ObSSOCookie	hvVzxynh17nqm5UXFSo89NRc2ALE3LYOP3clxouQ%2FqAsWIfDzb%2B5HmiKYCcCApM0XIEoN7UvjVQzEecTl95ue7dI2yGBKw%2Bu4coiVFL1SJktlqx6hq0pVQuzOdKL2qh3cuxJVVKVgEv0DG%2F0Ozaz9k7T080noQnSAg92iMGMuYBKiyUO%2B77dGZONGeKt2wwQwTi%2Bovgnp5hI4SMb72WLM5srQt5bugHXj6br%2FhwIBnbx%2FoMcNxM%2FgPXxRqBi8fREZBguPK%2Bo%2BgM18O5TuJ2%2BuFkGnVR9jJVkmiKOng4asIzke6C9XpHIVxgc5JpK%2B11h2i92hxzdH0%2BDm3%2FkVd1EfXdt94sHzae2mGPRTJ7gqqo2z%2FcCQNY7aAta24ec2koAhBSlQc3ABrgxvGY4V3j7vg%3D%3D
+.cisco.com	TRUE	/	FALSE		authorization	loggedIn

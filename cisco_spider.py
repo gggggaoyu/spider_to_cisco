@@ -142,8 +142,8 @@ class DmozSpider(scrapy.Spider):
     flag = 0
     def download_select(self, response):
 
-        self.flag = self.flag + 1
-        print self.flag, 'test'
+        # self.flag = self.flag + 1
+        # print self.flag, 'test'
 
         with open(r'e:' +'response'+str(self.flag)+ '.html', 'wb') as code:
             code.write(response.body)

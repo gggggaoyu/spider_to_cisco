@@ -1,35 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
     <data>
-        <record model="ir.ui.view" id="nantian_pres_sale_form">
+        <record id="nantian_erp_pres_sale_action" model="ir.actions.act_window">
+            <field name="name">售前项目</field>
+            <field name="res_model">nantian_erp.pres_sale</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+            <!--<field name ="domain">[('category','=','服务客户')]</field>-->
+         </record>
+        <record model="ir.ui.view" id="nantian_erp_pres_sale_form">
             <field name="name">pres_sale.form</field>
             <field name="model">nantian_erp.pres_sale</field>
             <field name="arch" type="xml">
-                <!--project_name = fields.Char(string='项目名称')-->
-                <!--partner = fields.Many2one('res.partner', string='客户名称', domain="[('category','=',u'服务客户')]")-->
-                <!--process_scrib = fields.Text(string='本周主要进展说明')-->
-                <!--before_bid_amount = fields.Integer(string='投标金额')-->
-                <!--bid_commpany = fields.Char(string='中标单位',)-->
-                <!--pre_bid_date = fields.Date(string='预计投标日期')-->
-                <!--competitors = fields.Char(string='竞争对手')-->
-                <!--rate_of_success = fields.Integer(string='预计成功率（%）')-->
-                <!--salesman_id = fields.Many2one('res.users', string='销售负责人')-->
-                <!--# 合同编号、项目名称、合同名称、客户名称、进展、-->
-                <!--# 标书编写、标书复核人、讲标人、投标金额、投标日期、中标单位、-->
-                <!--# 主要竞对、成功率、合同/中标金额、检索词、涉及厂商或平台、-->
-                <!--# 合同主要内容、销售人员、签字人、签订日-->
-                <!--# 项目名称、合同名称、进展、投标金额、投标日期、中标单位、主要竞对、成功率、-->
-                <!--nu = fields.Char(string='合同编号')-->
-                 <!--contract_name = fields.Char(string='合同名称')-->
-                <!--bid_write = fields.Char(string='标书编写',)-->
-                <!--bid_checkman_id = fields.Many2one('res.users',string='标书复核人',)-->
-                <!--bid_readman_id = fields.Many2one('res.users',string='讲标人',)-->
-                <!--after_bid_amount = fields.Integer(string='合同/中标金额',)-->
-                <!--term = fields.Char(string='检索词',)-->
-                <!--firm_platform = fields.Char(string='涉及厂商或平台',)-->
-                <!--context = fields.Text(string='合同主要内容',)-->
-                <!--siger = fields.Many2one('res.users',string='签字人',)-->
-                <!--sign_date = fields.Date(string='签订日期',)-->
                 <form string="pre_sale" >
                     <group >
                         <group string="售前项目预填写">
@@ -60,7 +42,7 @@
                 </form>
             </field>
         </record>
-        <record model="ir.ui.view" id="nantian_pres_sale_tree">
+        <record model="ir.ui.view" id="nantian_erp_pres_sale_tree">
             <field name="name">pres_sale.tree</field>
             <field name="model">nantian_erp.pres_sale</field>
             <field name="arch" type="xml">
@@ -76,15 +58,239 @@
                 </tree>
             </field>
         </record>
-         <record id="nantian_pres_sale_action" model="ir.actions.act_window">
-            <field name="name">售前项目</field>
-            <field name="res_model">nantian_erp.pres_sale</field>
+        <record id="nantian_erp_project_gathering_action" model="ir.actions.act_window">
+            <field name="name">项目收款</field>
+            <field name="res_model">nantian_erp.project_gathering</field>
             <field name="view_type">form</field>
             <field name="view_mode">tree,form</field>
             <!--<field name ="domain">[('category','=','服务客户')]</field>-->
          </record>
-        <menuitem id="nantian_pre_second_sale_menu" sequence="15" parent="nantian_working_team"  name="销售" />
-        <menuitem id="nantian_pre_sale_menu" parent="nantian_pre_second_sale_menu" action="nantian_pres_sale_action" name="售前" string='售前项目'/>
+
+        <record model="ir.ui.view" id="nantian_erp_project_gathering">
+            <field name="name">project_gathering.form</field>
+            <field name="model">nantian_erp.project_gathering</field>
+            <field name="arch" type="xml">
+                <form string="pres_sale.form" >
+                    <group >
+                        <group>
+                            <field name="gather_progress" string="项目名称"/>
+                            <field name="gather_date" string="客户名称" />
+                            <field name="gather_reminder" string="特此提醒，开始准备收款!"/>
+                        </group>
+                        <group string="">
+                        </group>
+                    </group>
+                </form>
+            </field>
+        </record>
+        <record model="ir.ui.view" id="nantian_erp_project_gathering_tree">
+            <field name="name">project_gathering.tree</field>
+            <field name="model">nantian_erp.project_gathering</field>
+            <field name="arch" type="xml">
+                <tree >
+                    <field name="gather_progress" string="项目名称"/>
+                    <field name="gather_date" string="客户名称" />
+                    <field name="gather_reminder" string="特此提醒，开始准备收款!"/>
+                </tree>
+            </field>
+        </record>
+        <record id="nantian_erp_pers_transfer_action" model="ir.actions.act_window">
+            <field name="name">人员调动</field>
+            <field name="res_model">nantian_erp.pers_transfer</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+            <!--<field name ="domain">[('category','=','服务客户')]</field>-->
+         </record>
+        <record model="ir.ui.view" id="nantian_erp_pers_transfer_form">
+            <field name="name">pers_transfer.form</field>
+            <field name="model">nantian_erp.pers_transfer</field>
+            <field name="arch" type="xml">
+                <form string="pre_sale" >
+                    <group >
+                        <group string="调动前">
+                            <field name="name" string="调动人"/>
+                            <field name="res_contract_name" string="合同名称" />
+                            <field name="res_contract_job" string="合同岗位"/>
+                            <field name="sour_team" string="原项目组"/>
+                            <field name="move_reason" string="调动原因"/>
+                            <field name="move_date" string="调动时间"/>
+                            <field name="is_recruit" string="是否招聘"/>
+                            <field name="befor_leading" string="调动前责人"/>
+
+                        </group>
+                        <group string="调动后">
+                            <field name="after_leading" string="调动后负责人"/>
+                            <field name="des_team" string="新项目组"/>
+                            <field name="des_contract_name" string="合同名称"/>
+                            <field name="des_contract_job" string="合同岗位"/>
+                        </group>
+                    </group>
+                </form>
+            </field>
+        </record>
+        <record model="ir.ui.view" id="nantian_erp_pers_transfer_tree">
+            <field name="name">pers_transfer.tree</field>
+            <field name="model">nantian_erp.pers_transfer</field>
+            <field name="arch" type="xml">
+                <tree >
+                    <field name="name" string="调动人"/>
+                            <field name="res_contract_name" string="合同名称" />
+                            <field name="res_contract_job" string="合同岗位"/>
+                            <field name="sour_team" string="原项目组"/>
+                            <field name="move_reason" string="调动原因"/>
+                            <field name="move_date" string="调动时间"/>
+                            <field name="is_recruit" string="是否招聘"/>
+                            <field name="befor_leading" string="调动前责人"/>
+                    <field name="after_leading" string="调动后负责人"/>
+                            <field name="des_team" string="新项目组"/>
+                            <field name="des_contract_name" string="合同名称"/>
+                            <field name="des_contract_job" string="合同岗位"/>
+                </tree>
+            </field>
+        </record>
+        <record id="nantian_erp_demission_action" model="ir.actions.act_window">
+            <field name="name">人员离职</field>
+            <field name="res_model">nantian_erp.demission</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+            <!--<field name ="domain">[('category','=','服务客户')]</field>-->
+         </record>
+        <record model="ir.ui.view" id="nantian_erp_demission_form">
+            <field name="name">demission.form</field>
+            <field name="model">nantian_erp.demission</field>
+            <field name="arch" type="xml">
+                <form string="pre_sale" >
+                    <group >
+                        <group >
+                            <field name="recruit_name" string="离职申请人"/>
+                            <field name="contract_name" string="合同名称" />
+                            <field name="contract_post" string="合同岗位"/>
+                            <field name="sro_project" string="项目组"/>
+                            <field name="recruit_reason" string="离职原因"/>
+                            <field name="recruit_date" string="离职时间"/>
+                            <field name="is_recruit" string="是否招聘"/>
+                        </group>
+                        <group >
+
+                        </group>
+                    </group>
+                </form>
+            </field>
+        </record>
+        <record model="ir.ui.view" id="nantian_erp_demission_tree">
+            <field name="name">demission.tree</field>
+            <field name="model">nantian_erp.demission</field>
+            <field name="arch" type="xml">
+                <tree >
+                    <field name="recruit_name" string="离职申请人"/>
+                            <field name="contract_name" string="合同名称" />
+                            <field name="contract_post" string="合同岗位"/>
+                            <field name="sro_project" string="项目组"/>
+                            <field name="recruit_reason" string="离职原因"/>
+                            <field name="recruit_date" string="离职时间"/>
+                            <field name="is_recruit" string="是否招聘"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="nantian_erp_project_progress_action" model="ir.actions.act_window">
+            <field name="name">项目进度</field>
+            <field name="res_model">nantian_erp.project_progress</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+            <!--<field name ="domain">[('category','=','服务客户')]</field>-->
+         </record>
+
+        <record model="ir.ui.view" id="nantian_erp_project_progress_form">
+            <field name="name">project_progress.form</field>
+            <field name="model">nantian_erp.project_progress</field>
+            <field name="arch" type="xml">
+                <form string="pre_sale" >
+                    <group >
+                        <group >
+                            <field name="major_change" string="本周是否重大变更"/>
+                            <field name="major_change_detail" string="详情叙述" />
+                            <field name="repeat" string="本周是否重保"/>
+                            <field name="repeat_detail" string="详情叙述"/>
+                            <field name="major_fault" string="本周是否重大事故"/>
+                            <field name="major_fault_detail" string="详情叙述"/>
+                            <field name="maintenance_name" string="本周是否主机维护"/>
+                            <field name="maintenance_name_detail" string="详情叙述" />
+                            <field name="ver_on_line" string="本周是否版本上线"/>
+                            <field name="ver_on_line_detail" string="详情叙述"/>
+                            <field name="equipment_implementation" string="本周是否设备实施"/>
+                            <field name="equipment_implementation_detail" string="详情叙述"/>
+                            <field name="special" string="本周是否有特殊事项"/>
+                            <field name="special_detail" string="详情叙述"/>
+                            <field name="possible_risk" string="本周预计可能风险"/>
+                            <field name="possible_risk_detail" string="详情叙述"/>
+                        </group>
+                        <group string="">
+                        </group>
+                    </group>
+                </form>
+            </field>
+        </record>
+        <record model="ir.ui.view" id="nantian_erp_project_progress_tree">
+            <field name="name">project_progress.tree</field>
+            <field name="model">nantian_erp.project_progress</field>
+            <field name="arch" type="xml">
+                <tree >
+                            <field name="major_change" string="本周是否重大变更"/>
+                            <field name="repeat" string="本周是否重保"/>
+                            <field name="major_fault" string="本周是否重大事故"/>
+                            <field name="maintenance_name" string="本周是否主机维护"/>
+                            <field name="ver_on_line" string="本周是否版本上线"/>
+                            <field name="equipment_implementation" string="本周是否设备实施"/>
+                            <field name="special" string="本周是否有特殊事项"/>
+                            <field name="possible_risk" string="本周预计可能风险"/>
+
+                </tree>
+            </field>
+        </record>
+        <record id="nantian_erp_customer_adjust_action" model="ir.actions.act_window">
+            <field name="name">客户动态和重大人事变动</field>
+            <field name="res_model">nantian_erp.customer_adjust</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+            <!--<field name ="domain">[('category','=','服务客户')]</field>-->
+         </record>
+        <record model="ir.ui.view" id="nantian_erp_customer_adjust_form">
+            <field name="name">customer_adjust.form</field>
+            <field name="model">nantian_erp.customer_adjust</field>
+            <field name="arch" type="xml">
+                <form string="pre_sale" >
+                    <group >
+                        <group string="近一月客户是否有重大动态或人事变动">
+                            <field name="major_adjust" string="近一月客户是否有重大动态或人事变动"/>
+                        </group>
+                        <group string="详情叙述">
+                            <field name="major_adjust_detail" string="详情叙述"/>
+
+                        </group>
+                    </group>
+                </form>
+            </field>
+        </record>
+        <record model="ir.ui.view" id="nantian_erp_customer_adjust_tree">
+            <field name="name">customer_adjust.tree</field>
+            <field name="model">nantian_erp.customer_adjust</field>
+            <field name="arch" type="xml">
+                <tree >
+                    <field name="major_adjust" string="近一月客户是否有重大动态或人事变动"/>
+                  <field name="major_adjust_detail" string="详情叙述"/>
+                </tree>
+            </field>
+        </record>
+
+        <menuitem id="nantian_erp_weekly_reports_menu" name="周报" />
+        <menuitem id="nantian_erp_pres_sale_menu" parent="nantian_erp_weekly_reports_menu" action="nantian_erp_pres_sale_action" name="nantian_erp_pres_sale_menu" string='售前项目'/>
+        <menuitem id="nantian_erp_project_gathering_menu" parent="nantian_erp_weekly_reports_menu" action="nantian_erp_project_gathering_action" name="nantian_erp_project_gathering_menu" string='项目收款'/>
+        <menuitem id="nantian_erp_pers_transfer_menu" parent="nantian_erp_weekly_reports_menu" action="nantian_erp_pers_transfer_action" name="nantian_erp_pers_transfer_menu" string='人员调动'/>
+        <menuitem id="nantian_erp_project_progress_menu" parent="nantian_erp_weekly_reports_menu" action="nantian_erp_project_progress_action" name="nantian_erp_project_progress_menu" string='项目进程'/>
+        <menuitem id="nantian_erp_demission_menu" parent="nantian_erp_weekly_reports_menu" action="nantian_erp_demission_action" name="nantian_erp_demission_menu" string='人员离职'/>
+        <menuitem id="nantian_erp_customer_adjust_menu" parent="nantian_erp_weekly_reports_menu" action="nantian_erp_customer_adjust_action" name="nantian_erp_customer_adjust_menu" string='客户变动'/>
+
 
     </data>
 </openerp>
