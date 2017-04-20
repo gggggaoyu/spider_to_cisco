@@ -96,7 +96,6 @@ def contractgohtml(ContractGoHtml):
         code.write(fp)
 
 
-
 def click_go(ContractManagerHtml):
     # print "模拟点击GO"
     tree = etree.HTML(ContractManagerHtml)
@@ -114,6 +113,7 @@ def click_go(ContractManagerHtml):
     html = res.read()
     contractgohtml(html)
 
+
 def get_per_item(item):
     if item.xpath('td[2]/a/@href'):
         value = item.xpath('td[2]/a/@href')[0][1:]
@@ -123,6 +123,7 @@ def get_per_item(item):
         pass
     else:
         print "====get td error!====="
+
 
 def for_each_item(items):
     print "----for each items---"
@@ -152,7 +153,6 @@ def for_each_pages(pages,tableID,contextID):
 
 def getmgr():
     text = opener.open(ContractManagerUrl).read()
-
     # ---------------***********************************——————————————————
     # 转化成html
     tree = etree.HTML(text)

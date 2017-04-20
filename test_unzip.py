@@ -12,22 +12,43 @@ import zipfile
 import os
 
 
+
 def unzip():
 
-    file_list = os.listdir(r'/Users/yu/Desktop/tutorial/spider_data/')
-    #print file_list
+    # file_list = os.listdir(r'/Users/yu/Desktop/tutorial/spider_data/')
+    file_list = os.listdir(r'e:')
+    print file_list
     for file_name in file_list:
+        #print type(file_name)
         if os.path.splitext(file_name)[1] == '.zip':
-            # ('200235610', '.zip')
-            print file_name
-            file_zip = zipfile.ZipFile(file_name, 'r')
+            r = zipfile.is_zipfile(u'e:\\'+file_name)
+            print r
+            print "1------"
+            new_filename  = file_name.split('.')[0]
+            print new_filename
+            file_zip = zipfile.ZipFile(u'e:\\'+ file_name, 'r')
+            print type(file_zip)
+            print "2------"
             print file_zip
-            # for file in file_zip.namelist():
-            #     file_zip.extract(file, r'/Users/yu/Desktop/tutorial/spider_data_c/')
-            # file_zip.close()
-            # os.remove(file_name)
-    pass
-
+            file_zip.extract(new_filename,u'e:\\jieya2\\')
+            file_zip.close()
+            #os.remove(file_name)
+        else:
+            pass
+    else:
+        pass
+# >>> import os
+#  >>> os.path.exists('d:/assist')
+#  True
+#  >>> os.path.exists('d:/assist/getTeacherList.py')
+#  True
+#  >>> os.path.isfile('d:/assist')
+#  False
+#  >>> os.path.isfile('d:/assist/getTeacherList.py')
+#  True
+#  >>> os.makedirs('d:/assist/set')
+#  >>> os.path.exists('d:/assist/set')
+#  True
 
 def main():
     # setp1: login

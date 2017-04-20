@@ -45,6 +45,7 @@ cookie = cookielib.MozillaCookieJar(filename)
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cookie))
 urllib2.install_opener(opener)
 
+
 def parse_summit(html):
 
     tree = etree.HTML(html)
@@ -53,6 +54,8 @@ def parse_summit(html):
     result = tree.xpath('//title[1]/text()')
     # print "====summit title [%s]"%result
     print "===start parse_summit [%s]" % result
+
+
 def contractgohtml(ContractGoHtml):
     tree = etree.HTML(ContractGoHtml)
     title = tree.xpath('//title[1]/text()')
@@ -92,7 +95,9 @@ def contractgohtml(ContractGoHtml):
     # 这个位置urllib2自动解决redict的问题不用手动
     fp = response.read()
     print fp
-    with open(r'/Users/yu/Desktop/tutorial/spider_data/' + ContractNumber + '.zip', 'wb') as code:
+    # with open(r'/Users/yu/Desktop/tutorial/spider_data/' + ContractNumber + '.zip', 'wb') as code:
+    #     code.write(fp)
+    with open(r'e:' + ContractNumber + '.zip', 'wb') as code:
         code.write(fp)
 
 
